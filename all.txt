@@ -1,0 +1,23 @@
+fibonacii:-https://chatgpt.com/share/690bfd91-b488-8006-8577-e7dfe7a59a6e
+Huffman encoding:-https://chatgpt.com/share/690bfdb3-95a8-8006-b55b-d62b889d1e99  https://chatgpt.com/share/690bffc1-d51c-8006-a0df-7f4d03f69382
+fractional:-https://chatgpt.com/share/690bfddd-4868-8012-8ede-47d0b34de4ac   https://chatgpt.com/share/690bfeb1-5484-8012-bafe-a071ad13dee1
+0-1:-https://chatgpt.com/share/690bfdf2-3cc8-8012-bac7-1bf73638df5f
+n-queen:-https://chatgpt.com/share/690bff1f-ff68-8012-a43e-3764555af8b3
+
+general daa:-https://chatgpt.com/share/690bff5b-a4b4-8006-b628-a420b8d4e776
+
+Write a program to calculate Fibonacci numbers and find its step count
+Write a program to solve a fractional Knapsack problem using a greedy method
+
+
+ml1:-https://chatgpt.com/share/690c0029-076c-8006-8cfd-0f5af0d169bf
+general:-https://chatgpt.com/share/690c005b-8ef0-8006-b63a-43f9df919a99
+b4:-https://chatgpt.com/share/690c0074-a36c-8006-ba2c-8fbaed8201fd
+
+all codes:-https://github.com/PROxZIMA/Academic-Codes/tree/master/Semester%207/LP3/DAA
+b5:-https://chatgpt.com/share/690c00de-05cc-8012-bca6-75af2e093056
+b2:-https://chatgpt.com/share/690c00ff-1f1c-8012-9f53-1d7a41bb7394
+
+Classify the email using the binary classification method. Email Spam detection has two states: a) Normal State – Not Spam, b) Abnormal State – Spam. Use K-Nearest Neighbors and Support Vector Machine for classification. Analyze their performance. Dataset link: The emails.csv dataset on the Kaggle https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv 
+
+Implement K-Nearest Neighbors algorithm on diabetes.csv dataset. Compute confusion matrix, accuracy, error rate, precision and recall on the given dataset. 
